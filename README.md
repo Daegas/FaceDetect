@@ -18,3 +18,5 @@ and
 #pip install Pillow
 #pip install matplotlib
 #pip install sklearn
+
+#The facenet model is available here:https://drive.google.com/drive/folders/12aMYASGCKvDdkygSv1yQq8ns03AStDO_

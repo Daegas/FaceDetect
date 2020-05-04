@@ -1,5 +1,6 @@
 # Face detection demo using MTCNN and OpenCV
 # Author: Juan-Pablo Ramirez-Paredes <jpi.ramirez@ugto.mx>
+#Edited: Dara Gama Sandoval <darae.gs@gmail.com>
 # Course: Artificial Intelligence
 # University of Guanajuato
 #
